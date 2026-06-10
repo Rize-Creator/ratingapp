@@ -28,7 +28,7 @@ class ContentRating extends Component {
       <>
         <div className="content-rating">
           <p>
-           are you gay?
+           ccdi?
           </p>
 
           <div className="rating-buttons">
